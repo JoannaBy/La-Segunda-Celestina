@@ -143,4 +143,4 @@ Zayas, María de. <i>La traición en la amistad</i>. Manuscript dated in 17th ce
 
 * AUTHOR’S NOTE: please be aware of the fact that publishing date generally occurs years later than the writing of the play.
 
-** Dates of plays have been extracted of mainly three sources: Spanish National Library (http://www.bne.es/es/Inicio/index.html), Miguel de Cervantes Virtual Library (http://www.cervantesvirtual.com/) and Canon-60 website (https://tc12.uv.es/?page_id=3626). 
+* Dates of plays have been extracted of mainly three sources: Spanish National Library (http://www.bne.es/es/Inicio/index.html), Miguel de Cervantes Virtual Library (http://www.cervantesvirtual.com/) and Canon-60 website (https://tc12.uv.es/?page_id=3626). 
