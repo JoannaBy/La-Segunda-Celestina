@@ -15,6 +15,12 @@ Salazar's, Vera Tassis' and one Solís' plays (*Las amazonas*) were transcribed 
 
 Procedence of every play is detailed at the Appendix. 
 
+Some of the plays are not complete or separated in various files, as the author we are interested in only write a part of the play. This is the case of:
+
+- Sor Juana Inés de la Cruz. <i>Amor es más laberinto</i>. Our file does not contain the second act, because this one was written by Fray Juan de Guevara.
+
+- <i>Más triunfa el amor rendido</i>. First act was written by Agustín de Salazar, whereas second and third act was written by Juan de Vera Tassis. Therefore, it is separated in two files.
+
 ## Acknowledgements
 
 We thank José Calvo Tello ([@morethanbooks](www.github.com/morethanbooks)) for sending us his clean version of Canon-60 corpus.
