@@ -19,7 +19,7 @@ Some of the plays are not complete or separated in various files, as the author 
 
 - Sor Juana Inés de la Cruz. <i>Amor es más laberinto</i>. Our file does not contain the second act, because this one was written by Fray Juan de Guevara.
 
-- <i>Más triunfa el amor rendido</i>. First act was written by Agustín de Salazar, whereas second and third act was written by Juan de Vera Tassis. Therefore, it is separated in two files.
+- <i>Más triunfa el amor rendido</i>. First act was written by Agustín de Salazar, whereas second and third act were written by Juan de Vera Tassis. Therefore, it is separated in two files.
 
 ## Acknowledgements
 
