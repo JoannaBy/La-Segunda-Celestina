@@ -17,4 +17,4 @@ Procedence of every play is detailed at the Appendix.
 
 ## Acknowledgements
 
-We thank José Calvo Tello ([@morethanbooks](www.github.com/morethanbooks) for sending us his clean version of Canon-60 corpus.
+We thank José Calvo Tello ([@morethanbooks](www.github.com/morethanbooks)) for sending us his clean version of Canon-60 corpus.
