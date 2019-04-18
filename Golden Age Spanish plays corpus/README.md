@@ -19,4 +19,4 @@ Más triunfa el amor rendido. First act was written by Agustín de Salazar, wher
 
 ## Format
 
-All the plays are offered in TXT format. Accotations have been removed.
+All plays are offered in TXT format. Accotations have been removed.
