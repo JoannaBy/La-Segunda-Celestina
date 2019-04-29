@@ -1,4 +1,4 @@
-# Evaluation of the OCR quality (or why we decided to transcript the texts)
+# Evaluation of the OCR quality (or why we decided to transcribe the texts)
 
 We were not able to find a realiable OCR measure method, but evaluating it with our own eyes led us to the following conclusions:
 
