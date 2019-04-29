@@ -12,7 +12,7 @@ We have collected the plays from various sources. Most of them were taken from [
 
 In addition, we took some Sor Juana's plays from [Biblioteca Virtual Miguel de Cervantes](www.cervantesvirtual.com). 
 
-Salazar's, Vera Tassis' and one Solís' plays (*Las amazonas*) were transcribed and revised by ourselves using the digitalisations of these plays available at [the National Library of Spain website](www.bne.es). 
+Salazar's, Vera Tassis' and one Solís' play (*Las amazonas*) were transcribed and revised by ourselves using the digitalisations of these plays available at [the National Library of Spain website](www.bne.es). 
 
 Procedence of every play is detailed at the List of plays. 
 
