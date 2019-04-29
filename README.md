@@ -4,7 +4,8 @@ Materials accompanying paper "Challenging Stylometry: The Authorship of the Baro
 ## Description
 The materials we present here consist of:
 * A corpus of Golden Age Spanish plays.
-* An appendix of all the plays in the corpus.
+* List of all the plays in the corpus.
+* Evaluation of the OCR difficulties which led us to transcribe the texts.
 
 ## Corpus of Golden Age Spanish Plays
 We have collected the plays from various sources. Most of them were taken from [Canon-60](https://tc12.uv.es/?page_id=3626). Oleza Simó, J. (2014). Canon 60. Valencia: Universitat de València. 
@@ -13,7 +14,7 @@ In addition, we took some Sor Juana's plays from [Biblioteca Virtual Miguel de C
 
 Salazar's, Vera Tassis' and one Solís' plays (*Las amazonas*) were transcribed and revised by ourselves using the digitalisations of these plays available at [the National Library of Spain website](www.bne.es). 
 
-Procedence of every play is detailed at the Appendix. 
+Procedence of every play is detailed at the List of plays. 
 
 Some of the plays are not complete or separated in various files, as the author we are interested in only write a part of the play. This is the case of:
 
