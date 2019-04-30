@@ -1,4 +1,4 @@
-# Appendix of plays
+# List of plays
 
 Anónimo. <i>La Estrella de Sevilla</i>. Written in 1623 according to De Armas, 1996. Taken from Canon-60.
 
