@@ -6,6 +6,7 @@ The materials we present here consist of:
 * A corpus of Golden Age Spanish plays.
 * List of all the plays in the corpus.
 * Evaluation of the OCR difficulties which led us to transcribe the texts.
+* Slides of our presentation in DH2019 (English and Spanish)
 
 ## Corpus of Golden Age Spanish Plays
 We have collected the plays from various sources. Most of them were taken from [Canon-60](https://tc12.uv.es/?page_id=3626). Oleza Simó, J. (2014). Canon 60. Valencia: Universitat de València. 
