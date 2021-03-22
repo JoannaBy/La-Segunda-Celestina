@@ -11,9 +11,9 @@ The materials we present here consist of:
 ## Corpus of Golden Age Spanish Plays
 We have collected the plays from various sources. Most of them were taken from [Canon-60](https://tc12.uv.es/?page_id=3626). Oleza Simó, J. (2014). Canon 60. Valencia: Universitat de València. 
 
-In addition, we took some Sor Juana's plays from [Biblioteca Virtual Miguel de Cervantes](www.cervantesvirtual.com). 
+In addition, we took some Sor Juana's plays from [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com). 
 
-Salazar's, Vera Tassis' and one Solís' play (*Las amazonas*) were transcribed and revised by ourselves using the digitalisations of these plays available at [the National Library of Spain website](www.bne.es). 
+Salazar's, Vera Tassis' and one Solís' play (*Las amazonas*) were transcribed and revised by ourselves using the digitalisations of these plays available at [the National Library of Spain website](https://www.bne.es). 
 
 Procedence of every play is detailed at the List of plays. 
 
