@@ -1,4 +1,7 @@
 # La-Segunda-Celestina
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5879010.svg)](https://doi.org/10.5281/zenodo.5879010)
+
 Materials accompanying paper "Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina" by Laura Hernández Lorenzo ([@lamusadecima](www.github.com/lamusadecima)) and Joanna Byszuk ([@JoannaBy](www.github.com/JoannaBy)) presented at the Digital Humanities 2019 conference in Utrecht. 
 
 ## Description
