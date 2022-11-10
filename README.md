@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5879010.svg)](https://doi.org/10.5281/zenodo.5879010)
 
-Materials accompanying paper "Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina" by Laura Hernández Lorenzo ([@lamusadecima](www.github.com/lamusadecima)) and Joanna Byszuk ([@JoannaBy](www.github.com/JoannaBy)) presented at the Digital Humanities 2019 conference in Utrecht. 
+Materials accompanying paper "Challenging Stylometry: The Authorship of the Baroque Play La Segunda Celestina" by Laura Hernández Lorenzo ([@lamusadecima](www.github.com/lamusadecima)) and Joanna Byszuk ([@JoannaBy](www.github.com/JoannaBy)) published at <i>Digital Scholarship in the Humanities</i>: https://doi.org/10.1093/llc/fqac063
 
 ## Description
 The materials we present here consist of:
@@ -26,6 +26,10 @@ Some of the plays are not complete or separated in various files, as the author 
 - Sor Juana Inés de la Cruz. <i>Amor es más laberinto</i>. Our file does not contain the second act, because this one was written by Fray Juan de Guevara.
 
 - <i>Más triunfa el amor rendido</i>. First act was written by Agustín de Salazar, whereas second and third act were written by Juan de Vera Tassis. Therefore, it is separated in two files.
+
+## Citing
+
+Hernández Lorenzo, L., & Byszuk, J. (2022). Challenging Stylometry: The authorship of the baroque play La Segunda Celestina. Digital Scholarship in the Humanities. https://doi.org/10.1093/llc/fqac063
 
 ## Acknowledgements
 
