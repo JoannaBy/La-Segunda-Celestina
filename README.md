@@ -29,7 +29,8 @@ Some of the plays are not complete or separated in various files, as the author 
 
 ## Citing
 
-Hernández Lorenzo, L., & Byszuk, J. (2022). Challenging Stylometry: The authorship of the baroque play La Segunda Celestina. <i>Digital Scholarship in the Humanities</i>. https://doi.org/10.1093/llc/fqac063
+Hernández Lorenzo, L., & Byszuk, J. (2023). Challenging Stylometry: The authorship of the baroque play <i>La Segunda Celestina</i>. <i>Digital Scholarship in the Humanities</i>, 38(2), 544-558. https://doi.org/10.1093/llc/fqac063
+
 
 ## Acknowledgements
 
